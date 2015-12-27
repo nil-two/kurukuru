@@ -2,6 +2,7 @@ Kurukuru
 ========
 
 Display the box rotating.
+App is [here](http://kusabashira.github.io/kurukuru/).
 
 License
 -------
