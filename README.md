@@ -2,7 +2,7 @@ Kurukuru
 ========
 
 Display the box rotating.
-App is [here](http://kusabashira.github.io/kurukuru/).
+App is [here](http://nil2nekoni.github.io/kurukuru/).
 
 License
 -------
@@ -12,4 +12,4 @@ MIT License
 Author
 ------
 
-kusabashira <kusabashira227@gmail.com>
+nil2 <nil2@nil2.org>
