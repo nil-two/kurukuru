@@ -2,7 +2,7 @@ Kurukuru
 ========
 
 Display the box rotating.
-App is [here](http://nil2nekoni.github.io/kurukuru/).
+App is [here](http://nil-two.github.io/kurukuru/).
 
 License
 -------
